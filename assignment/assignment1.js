@@ -38,7 +38,7 @@ let server = http.createServer((req, res) => {
       arr.push(s);
       fs.writeFileSync(file, JSON.stringify(arr));
 
-      res.writeHead(200, { "Content-Type": "text/html" });
+      res.writeHead(200, { "Content-Type ": "text/html" });
       res.end(`
         <h2>Student added successfully!</h2>
         <p><b>Name:</b> ${s.name}</p>
