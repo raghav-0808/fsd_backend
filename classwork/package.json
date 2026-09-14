@@ -1,0 +1,20 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/raghav-0808/fsd_backend#readme",
+  "bugs": {
+    "url": "https://github.com/raghav-0808/fsd_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghav-0808/fsd_backend"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Rohit Sharma",
+    "age": 20,
+    "gender": "Male",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "email": "rohit.sharma@example.com",
+    "phone": "9876543210",
+    "city": "Delhi",
+    "cgpa": 8.7
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "age": 19,
+    "gender": "Female",
+    "course": "B.Tech IT",
+    "year": 1,
+    "email": "priya.verma@example.com",
+    "phone": "9876543211",
+    "city": "Lucknow",
+    "cgpa": 9.1
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "age": 21,
+    "gender": "Male",
+    "course": "B.Tech ECE",
+    "year": 3,
+    "email": "amit.kumar@example.com",
+    "phone": "9876543212",
+    "city": "Kanpur",
+    "cgpa": 8.3
+  },
+  {
+    "id": 4,
+    "name": "Sneha Singh",
+    "age": 20,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "email": "sneha.singh@example.com",
+    "phone": "9876543213",
+    "city": "Noida",
+    "cgpa": 9.4
+  },
+  {
+    "id": 5,
+    "name": "Rahul Yadav",
+    "age": 22,
+    "gender": "Male",
+    "course": "B.Tech ME",
+    "year": 4,
+    "email": "rahul.yadav@example.com",
+    "phone": "9876543214",
+    "city": "Ghaziabad",
+    "cgpa": 7.9
+  },
+  {
+    "id": 6,
+    "name": "Anjali Gupta",
+    "age": 19,
+    "gender": "Female",
+    "course": "B.Tech AI",
+    "year": 1,
+    "email": "anjali.gupta@example.com",
+    "phone": "9876543215",
+    "city": "Agra",
+    "cgpa": 8.8
+  },
+  {
+    "id": 7,
+    "name": "Vikas Mishra",
+    "age": 21,
+    "gender": "Male",
+    "course": "B.Tech CSE",
+    "year": 3,
+    "email": "vikas.mishra@example.com",
+    "phone": "9876543216",
+    "city": "Varanasi",
+    "cgpa": 8.5
+  },
+  {
+    "id": 8,
+    "name": "Neha Kapoor",
+    "age": 20,
+    "gender": "Female",
+    "course": "B.Tech EE",
+    "year": 2,
+    "email": "neha.kapoor@example.com",
+    "phone": "9876543217",
+    "city": "Jaipur",
+    "cgpa": 9.0
+  },
+  {
+    "id": 9,
+    "name": "Arjun Patel",
+    "age": 22,
+    "gender": "Male",
+    "course": "B.Tech Civil",
+    "year": 4,
+    "email": "arjun.patel@example.com",
+    "phone": "9876543218",
+    "city": "Indore",
+    "cgpa": 7.8
+  },
+  {
+    "id": 10,
+    "name": "Kavya Nair",
+    "age": 19,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "email": "kavya.nair@example.com",
+    "phone": "9876543219",
+    "city": "Kochi",
+    "cgpa": 9.6
+  }
+]
